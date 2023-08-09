@@ -12,7 +12,7 @@ A settings page is available to choose which blocks to activate/deactivate and a
 
 # Blocks
 
-Discover our blocks on [Advanced Gutenberg Blocks](https://advanced-gutenberg-blocks.com/) website.
+
 
 # Requirements
 
