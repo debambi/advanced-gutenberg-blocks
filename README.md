@@ -33,4 +33,3 @@ This project was bootstrapped with [Create Guten Block](https://github.com/ahmad
 ---
 
 Any block idea? Join Me!
-Feel free to tweet and say 👋 at me [@MaximeBJ](https://twitter.com/maximebj/)
