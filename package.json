@@ -16,7 +16,7 @@
     "chalk": "^2.3.0",
     "codemirror": "^5.65.12",
     "cross-env": "^5.0.1",
-    "cross-spawn": "^5.1.0",
+    "cross-spawn": "^7.0.5",
     "eslint": "^4.15.0",
     "eslint-config-wordpress": "^2.0.0",
     "eslint-plugin-jest": "^21.6.1",
@@ -43,8 +43,8 @@
     "shelljs": "^0.8.0",
     "style-loader": "^0.19.1",
     "throttle-debounce": "^1.1.0",
-    "update-notifier": "^2.3.0",
-    "webpack": "^3.1.0"
+    "update-notifier": "^4.0.0",
+    "webpack": "^4.0.0"
   },
   "devDependencies": {
     "classnames": "^2.2.6"
